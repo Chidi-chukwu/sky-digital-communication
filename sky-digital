@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Affordable and professional web design">
+    <meta name="keywords" content="web design, Affordable web design">
+    <meta name="author" content="Chidi Chukwu">
+    <title>Sky Digital Communication | Welcome</title>
+    <link rel="stylesheet" href="acme.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Sky</span> Digital Communication</h1>
+        </div>
+        <nav>
+          <ul>
+            <li class="current"><a href="acme.html">Home</a></li>
+            <li ><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section id="showcase">
+      <div class="container">
+        <h1>Affordable professional Services</h1>
+        <h3>web Design | Inverter Installation | Digital marketing</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+          cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </div>
+    </section>
+    <section>
+      <div class="newsletter">
+        <h1>Subscribe to Our Newsletter</h1>
+        <form class="" action="index.html" method="post">
+          <input type="email" placeholder="Enter email">
+          <button type="submit" class="button_1">Subscribe</button>
+        </form>
+      </div>
+    </section>
+    <section>
+      <div class="container">
+        <div class="box">
+          <img src="">
+          <h3>Digital Marketing</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+        <div class="box">
+          <img src="">
+          <h3>Power Inverter & Solar Installations</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+        <div class="box">
+          <img src="" alt="">
+          <h3>Web Design</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="container">
+        <p>Sky Digital Communication,Copyright &copy; 2020</p>
+      </div>
+    </footer>
+
+  </body>
+</html>
