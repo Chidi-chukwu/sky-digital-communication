@@ -1,0 +1,23 @@
+body {
+
+}
+
+  .white {
+  color: white;
+  font-size: 32px;
+}
+
+.menu-tabel {
+    padding: 30px;
+}
+
+.main-container{
+  margin: 0 auto;
+  width: 900px;
+  background-color: white;
+}
+
+td  h1 {
+  color: grey;
+
+}
